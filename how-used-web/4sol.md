@@ -14,7 +14,7 @@
 
 ### Qwant
 
-![](../.gitbook/assets/2018-05-13_234050.png)
+![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-13_234050.png)
 
 ### doub
 

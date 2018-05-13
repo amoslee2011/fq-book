@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 May 2018 13:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 13:54:37 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -295,6 +295,13 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
+            <title><![CDATA[难封锁的草榴]]></title>
+            <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/caoliu.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/caoliu.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
             <title><![CDATA[安卓手机权限]]></title>
             <description><![CDATA[为了捆绑各类全家桶APP占据市场份额，以及国内政府严禁使用谷歌各类服务，又因很多爱国工具需要在Google Play商店运行。]]></description>
             <link>https://loremwalker.github.io/fq-book/append/android.html</link>
@@ -316,10 +323,10 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[难封锁的草榴]]></title>
-            <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
-            <link>https://loremwalker.github.io/fq-book/append/caoliu.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/caoliu.html</guid>
+            <title><![CDATA[获取工具方法]]></title>
+            <description><![CDATA[使用github搜索相关的关键词vpn、v2ray、shadowsocks等字眼，即可有相关软件下载。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/get-method.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/get-method.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>

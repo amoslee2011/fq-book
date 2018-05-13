@@ -25,6 +25,7 @@
 |[NAT类型科普及一些简单提升NAT类型的方法](http://www.xuxiaobo.com/?p=4243)|
 |[四种NAT的iptables实现](http://os.51cto.com/art/201103/249324.htm)|
 |[NAT 类型及检测方法](https://my.oschina.net/u/945874/blog/371562)|
+|[VMware的3种网络模式](http://net.zol.com.cn/115/1158058.html)|
 |[草榴社区这类色情网站为什么封不掉](https://www.leiphone.com/news/201612/isY4iUwVGppRMsZA.html)|
 
 

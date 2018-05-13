@@ -30,14 +30,14 @@
 ## 防止污染
 
 * [修改hosts查询维基百科](no-dns-spoofing/hosts.md)
-* [DNSCrypt打开ss分享站点](no-dns-spoofing/dnscrypt.md)
+* [DNSCrypt打开论坛站点](no-dns-spoofing/dnscrypt.md)
 
 ## 使用网站
 
 * [网页代理的使用](how-used-web/web-proxy.md)
 * [rabb.it观看YouTube](how-used-web/rabb.md)
-* [提取ss站点有效信息](how-used-web/for-ss.md)
 * [heroku搭建ss分享站点](how-used-web/heroku-deploy.md)
+* [提取各类科学上网站点有效信息](how-used-web/4sol.md)
 
 ## 代理工具
 
@@ -73,13 +73,14 @@
 * [[转]VMware的3种网络模式](abc/3vm.md)
 * [[转]net类型科普以及提升方法](abc/4nat.md)
 
-## 细节摘录
+## 细节扩充
 
-* [ss#1130](extract/ss1130.md)
-* [安卓手机权限](extract/android.md)
-* [封锁IP的理解](extract/block-ip.md)
-* [对游戏的解读](extract/game.md)
-* [难封锁的草榴](extract/caoliu.md)
+* [ss#1130](append/ss1130.md)
+* [难封锁的草榴](append/caoliu.md)
+* [安卓手机权限](append/android.md)
+* [封锁IP的理解](append/block-ip.md)
+* [对游戏的解读](append/game.md)
+* [获取工具方法](append/get-method.md)
 
 ## 文章总结
 

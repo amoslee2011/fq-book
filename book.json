@@ -29,7 +29,6 @@
         "emphasize",
         "todo",
         "advanced-emoji",
-        "tbfed-pagefooter",
         "github",
         "ga",
         "github-buttons"
@@ -94,12 +93,6 @@
             "categories": [
                 "gitbook"
             ]
-        },
-        
-    "tbfed-pagefooter": {
-        "copyright":"Copyright &copy loremwalker 2018",
-        "modify_label": "该文件修订时间：",
-        "modify_format": "YYYY-MM-DD HH:mm:ss"
-    }
+        }
  }
 }

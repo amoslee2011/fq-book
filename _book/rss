@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 May 2018 10:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 15:44:48 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -12,7 +12,7 @@
         <category><![CDATA[gitbook]]></category>
         <item>
             <title><![CDATA[前言]]></title>
-            <description><![CDATA[时至今日，才明白集中意志大炼钢铁造芯片的道理，原来这并不奇怪；不同意见已被流量风向标所代理了，网络不发达，信息又入口太少。这个regimes存在就一直是这样， 随着时间反复循环也是早晚的问题；虽有良田万亩，能展翅高飞的migrate却不太向往这美好而又和谐的地方。]]></description>
+            <description><![CDATA[时至今日，才明白集中意志大炼钢铁造芯片厉害了的道理，原来这并不奇怪；不同意见已被流量风向标所代理了，网络不发达，信息又入口太少。这个regimes存在就一直是这样， 随着时间反复循环也是早晚的问题；虽有良田万亩，能展翅高飞的migrate却不太向往这美好而又和谐的地方。]]></description>
             <link>https://loremwalker.github.io/fq-book/</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
@@ -99,7 +99,7 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[DNSCrypt打开ss分享站点]]></title>
+            <title><![CDATA[DNSCrypt打开论坛站点]]></title>
             <description><![CDATA[开启DNSCrypt服务与网卡选项√]]></description>
             <link>https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</guid>
@@ -120,17 +120,16 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[提取ss站点有效信息]]></title>
-            <description><![CDATA[一些解释性说明：]]></description>
-            <link>https://loremwalker.github.io/fq-book/how-used-web/for-ss.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/for-ss.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
             <title><![CDATA[heroku搭建ss分享站点]]></title>
             <description><![CDATA[fork！github项目：]]></description>
             <link>https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[提取各类科学上网站点有效信息]]></title>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/4sol.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/4sol.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -290,36 +289,43 @@
         </item>
         <item>
             <title><![CDATA[关于ss#1130]]></title>
-            <link>https://loremwalker.github.io/fq-book/extract/ss1130.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/ss1130.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[安卓手机权限]]></title>
-            <description><![CDATA[为了捆绑各类全家桶APP占据市场份额，以及国内政府严禁使用谷歌各类服务，又因很多爱国工具需要在Google Play商店运行。]]></description>
-            <link>https://loremwalker.github.io/fq-book/extract/android.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/android.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[封锁IP的理解]]></title>
-            <description><![CDATA[GFW采用IP地址屏蔽，所有的骨干路由器和国际出口的路由器都添加上了和Google服务有关的IP黑名单，带有相关IP地址的数据包直接在半路就被丢包了，这会给路由器带来很大负担且成本非常高。]]></description>
-            <link>https://loremwalker.github.io/fq-book/extract/block-ip.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/block-ip.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
-            <title><![CDATA[对游戏的解读]]></title>
-            <description><![CDATA[游戏的话，GFW目前对这块干涉比较少，多数游戏是可以连接各国家/地区的服务器，只不过ping值有些过高而已；倒是游戏厂商很热衷封锁中国IP，连接受到各种限制，港澳台除外了。]]></description>
-            <link>https://loremwalker.github.io/fq-book/extract/game.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/game.html</guid>
+            <link>https://loremwalker.github.io/fq-book/append/ss1130.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/ss1130.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[难封锁的草榴]]></title>
             <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
-            <link>https://loremwalker.github.io/fq-book/extract/caoliu.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/extract/caoliu.html</guid>
+            <link>https://loremwalker.github.io/fq-book/append/caoliu.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/caoliu.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[安卓手机权限]]></title>
+            <description><![CDATA[为了捆绑各类全家桶APP占据市场份额，以及国内政府严禁使用谷歌各类服务，又因很多爱国工具需要在Google Play商店运行。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/android.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/android.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[封锁IP的理解]]></title>
+            <description><![CDATA[GFW采用IP地址屏蔽，所有的骨干路由器和国际出口的路由器都添加上了和Google服务有关的IP黑名单，带有相关IP地址的数据包直接在半路就被丢包了，这会给路由器带来很大负担且成本非常高。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/block-ip.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/block-ip.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[对游戏的解读]]></title>
+            <description><![CDATA[游戏的话，GFW目前对这块干涉比较少，多数游戏是可以连接各国家/地区的服务器，只不过ping值有些过高而已；倒是游戏厂商很热衷封锁中国IP，连接受到各种限制，港澳台除外了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/game.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/game.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[获取工具方法]]></title>
+            <description><![CDATA[使用github搜索相关的关键词vpn、v2ray、shadowsocks等字眼，即可有相关软件下载。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/get-method.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/get-method.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
@@ -356,6 +362,7 @@
 |NAT类型科普及一些简单提升NAT类型的方法|
 |四种NAT的iptables实现|
 |NAT 类型及检测方法|
+|VMware的3种网络模式|
 |草榴社区这类色情网站为什么封不掉|]]></description>
             <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>

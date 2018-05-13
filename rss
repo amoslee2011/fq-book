@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 May 2018 13:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 15:46:57 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -99,7 +99,7 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[DNSCrypt打开ss分享站点]]></title>
+            <title><![CDATA[DNSCrypt打开论坛站点]]></title>
             <description><![CDATA[开启DNSCrypt服务与网卡选项√]]></description>
             <link>https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</guid>
@@ -120,17 +120,16 @@
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[提取ss站点有效信息]]></title>
-            <description><![CDATA[一些解释性说明：]]></description>
-            <link>https://loremwalker.github.io/fq-book/how-used-web/for-ss.html</link>
-            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/for-ss.html</guid>
-            <dc:creator><![CDATA[loremwalker]]></dc:creator>
-        </item>
-        <item>
             <title><![CDATA[heroku搭建ss分享站点]]></title>
             <description><![CDATA[fork！github项目：]]></description>
             <link>https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[提取各类科学上网站点有效信息]]></title>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/4sol.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/4sol.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>

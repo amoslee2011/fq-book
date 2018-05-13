@@ -56,6 +56,10 @@
 * [OpenVPN](vpn-soft/openvpn.md)
 * [GateVPN](vpn-soft/gatevpn.md)
 
+## 特别篇章
+
+* [宿主机使用VM的代理](vmse/vm.md)
+
 ## 科学普及
 
 * [软件互联协议](abc/connection.md)
@@ -66,14 +70,16 @@
 * [[转]GFW原理和封锁技术](abc/gfw.md)
 * [[转]meek网桥的技术原理](abc/meek.md)
 * [[转]用Win7，电脑就是路由器](abc/win7-wifi.md)
-* [[转]net类型科普以及提升的方法](abc/4nat.md)
+* [[转]VMware的3种网络模式](abc/3vm.md)
+* [[转]net类型科普以及提升方法](abc/4nat.md)
 
 ## 细节摘录
 
 * [ss#1130](extract/ss1130.md)
-* [封锁IP的解读](extract/block-ip.md)
+* [安卓手机权限](extract/android.md)
+* [封锁IP的理解](extract/block-ip.md)
+* [对游戏的解读](extract/game.md)
 * [难封锁的草榴](extract/caoliu.md)
-* [对游戏的进一步说明](extract/game.md)
 
 ## 文章总结
 

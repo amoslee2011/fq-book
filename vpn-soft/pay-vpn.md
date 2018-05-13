@@ -3,7 +3,7 @@
 **说明：**
 
 * **免费的有whoer、psiphon、openVPN、GateVPN等，但并不好用！**
-* **某些vpn代理有其专属的破解版，例如：greenvpn（挂掉了）、lantern**
+* **某些vpn或代理有其专属的破解版，例如：greenvpn（挂掉了）、lantern**
 
 以下是付费VPN清单
 

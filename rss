@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 May 2018 15:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 May 2018 16:31:06 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -323,14 +323,14 @@
         </item>
         <item>
             <title><![CDATA[获取工具方法]]></title>
-            <description><![CDATA[使用github搜索相关的关键词vpn、v2ray、shadowsocks等字眼，即可有相关软件下载。]]></description>
+            <description><![CDATA[搜索科学上网相关软件的关键词会出来了的，各类资料等等都很完善，非常不错的]]></description>
             <link>https://loremwalker.github.io/fq-book/append/get-method.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/get-method.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[总结]]></title>
-            <description><![CDATA[连接互联网成为可能很大程度和信息加密与流量混淆有关，至少目前不敢封根域名服务器；我相信若有条件成熟的话，根据国情推测，也一定会建成真正的局域网，从古至今历来如此。]]></description>
+            <description><![CDATA[连接互联网成为可能，很大程度和信息加密与流量混淆有关，至少目前不敢封根域名服务器；我相信若有条件成熟的话，根据国情推测，也一定会建成真正的局域网，从古至今历来如此。]]></description>
             <link>https://loremwalker.github.io/fq-book/summarize.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/summarize.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>

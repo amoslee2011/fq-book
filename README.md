@@ -17,7 +17,5 @@
 
 关于gitbook更多详细教程链接
 
-   http://gitbook.zhangjikai.com/installation.html
-   
-   http://www.chengweiyang.cn/gitbook/github-pages/README.html
+   https://toolchain.gitbook.com/
 

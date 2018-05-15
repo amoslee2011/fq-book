@@ -28,13 +28,3 @@ fork！github项目：
 如有其他问题，可查看或发起issues
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_202117.png)
-
-heroku的免费配额的限制
-：
-
-* Network Bandwidth/流量: 2TB/month – Soft
-* Shared DB processing/并发数: Max 200msec per second CPU time – Soft
-* Dyno RAM usage/使用运行内存: 512MB – Hard
-* Slug Size/存储空间: 300MB – Hard
-* Request Length/请求时间: 30 seconds – Hard
-

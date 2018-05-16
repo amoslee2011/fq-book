@@ -4,7 +4,7 @@
 
 * [v2hero](https://github.com/onplus/v2hero)
 
- 使用现成的[模板](https://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-startedhttps://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-started)，默认的uuid有冲突所以需要更改
+使用现成的[模板](https://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-startedhttps://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-started)，默认的uuid有冲突所以需要更改
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_073517.png)
 
@@ -44,13 +44,11 @@
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_083502.png)
 
-
-
- `view logs`确认启动成功
+`view logs`确认启动成功
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_083035.png)
 
- 以v2rayN为例
+以v2rayN为例
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_090353.png)
 

@@ -1,7 +1,5 @@
 # heroku搭建ss服务器
 
-heroku无需任何信用卡注册即可使用，同时它也是主流的云服务平台提供商，这个主要演示ss服务器的搭建，关于[v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku)的使用方法[请看这里](https://github.com/loremwalker/WebSiteUseful/wiki/Deploy-V2ray-To-Heroku)，此GitHub-Wiki已经写的很详细了，就没必要重复造轮子了。
-
 > **[warning] 免费配额与限制：**
 
 > * Network Bandwidth/流量: 2TB/month – Soft
@@ -16,15 +14,15 @@ heroku无需任何信用卡注册即可使用，同时它也是主流的云服�
 
 * [shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku)
 
- 创建App
+创建App
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-04-29_195722m.png)
 
- 起个可用名称，默认美国服务器就行，总之不要选网络有限制国家的服务器
+起个可用名称，默认美国服务器就行，总之不要选网络有限制国家的服务器
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_013449m.png)
 
- 在`deploy`点击github图标，并搜索fork过来的项目名称`shadowsocks-heroku`
+在`deploy`点击github图标，并搜索fork过来的项目名称`shadowsocks-heroku`
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_014155.png)
 
@@ -43,8 +41,6 @@ heroku无需任何信用卡注册即可使用，同时它也是主流的云服�
 回到`deploy`选项
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_020653.png)
-
-
 
 下拉点击`enable automatic deploys`完成后再点击`deploy branch`
 
@@ -65,8 +61,6 @@ heroku无需任何信用卡注册即可使用，同时它也是主流的云服�
 配置`config.json`填入页面生成的地址以及在heroku上设置好的加密与密码参数
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/.gitbook/assets/2018-05-16_022758.png)
-
-
 
 再打开`ss-h.exe`与配置chrome代理插件`switchyomega`的各项参数，并应用选项
 

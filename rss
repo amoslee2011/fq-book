@@ -4,7 +4,7 @@
         <description><![CDATA[FREE科学上网]]></description>
         <link>https://loremwalker.github.io/fq-book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 May 2018 19:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 May 2018 01:54:08 GMT</lastBuildDate>
         <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[loremwalker]]></author>
         <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
@@ -124,6 +124,13 @@
             <description><![CDATA[heroku无需任何信用卡注册即可使用，同时它也是主流的云服务平台提供商，这个主要演示ss服务器的搭建，关于v2ray-heroku的使用方法请看这里，此GitHub-Wiki已经写的很详细了，就没必要重复造轮子了。]]></description>
             <link>https://loremwalker.github.io/fq-book/how-used-web/herokusss.html</link>
             <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/herokusss.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[heroku搭建v2ray服务器]]></title>
+            <description><![CDATA[fork！github项目：]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/heroku4v2.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/heroku4v2.html</guid>
             <dc:creator><![CDATA[loremwalker]]></dc:creator>
         </item>
         <item>

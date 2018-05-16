@@ -37,6 +37,7 @@
 * [网页代理的使用](how-used-web/web-proxy.md)
 * [rabb.it观看YouTube](how-used-web/rabb.md)
 * [heroku搭建ss服务器](how-used-web/herokusss.md)
+* [heroku搭建v2ray服务器](how-used-web/heroku4v2.md)
 * [heroku搭建ss分享站点](how-used-web/heroku-deploy.md)
 * [提取各类科学上网站点有效信息](how-used-web/4sol.md)
 
